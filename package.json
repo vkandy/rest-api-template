@@ -1,0 +1,14 @@
+{
+  "name": "rest-api-template",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "node-uuid": "~1.4.1",
+    "moment": "~2.4.0",
+    "restify": "~2.6.0",
+    "pg": "~2.8.3"
+  }
+}
